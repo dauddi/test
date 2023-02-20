@@ -1,0 +1,68 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"title": "To Kill a Mockingbird",
+			"author": "Harper Lee",
+			"publisher": "J. B. Lippincott & Co.",
+			"publication_date": "1960",
+			"synopsis": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature. The plot and characters are loosely based on the author's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was 10 years old. The story is told by the six-year-old Jean Louise Finch. The novel is renowned for its warmth and humor, despite dealing with the serious issues of rape and racial inequality."
+		},
+		{
+			"id": 2,
+			"title": "The Great Gatsby",
+			"author": "F. Scott Fitzgerald",
+			"publisher": "Charles Scribner's Sons",
+			"publication_date": "1925",
+			"synopsis": "The Great Gatsby is a novel by American author F. Scott Fitzgerald. Set in the Roaring Twenties, the book tells the story of the rise and fall of the mysterious millionaire Jay Gatsby, as he tries to win back his former love, Daisy Buchanan. The novel explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream."
+		},
+		{
+			"id": 3,
+			"title": "1984",
+			"author": "George Orwell",
+			"publisher": "Secker & Warburg",
+			"publication_date": "1949",
+			"synopsis": "1984 is a dystopian novel by English author George Orwell, published in 1949. The novel is set in Airstrip One, a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance, and public manipulation. The superstate is under the control of the Party, whose leader is Big Brother. The novel's protagonist, Winston Smith, is a low-ranking member of the Party who begins to question the regime's motives and objectives, leading him to rebel against the Party and its leader."
+		},
+		{
+			"id": 4,
+			"title": "Pride and Prejudice",
+			"author": "Jane Austen",
+			"publisher": "T. Egerton, Whitehall",
+			"publication_date": "1813",
+			"synopsis": "Pride and Prejudice is a novel by Jane Austen, first published in 1813. The story follows the main character Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of the British Regency. Elizabeth is the second of five daughters of a country gentleman living near the fictional town of Meryton in Hertfordshire, near London. Though the story is set at the turn of the 19th century, it retains a fascination for modern readers, continuing near the top of lists of most loved books."
+		},
+		{
+			"id": 5,
+			"title": "The Catcher in the Rye",
+			"author": "J.D. Salinger",
+			"publisher": "Little, Brown and Company",
+			"publication_date": "1951",
+			"synopsis": "The Catcher in the Rye is a novel by J. D. Salinger, published in 1951. It is a story of teenage rebellion and alienation, told in the first person by the protagonist Holden Caulfield. The novel has become a classic of 20th-century American literature and has been widely translated. The novel's protagonist Holden Caulfield has become an icon for teenage rebellion and has been compared to Huck Finn, Holden is not a typical teen hero. He is a complex character whose actions and thoughts are driven by his disillusionment with the adult world."
+		},
+		{
+			"id": 6,
+			"title": "The Hobbit",
+			"author": "J.R.R. Tolkien",
+			"publisher": "George Allen & Unwin",
+			"publication_date": "1937",
+			"synopsis": "The Hobbit is a children's fantasy novel by J.R.R. Tolkien, published in 1937. It is set in a fictional world known as Middle-earth, and follows the adventures of hobbit Bilbo Baggins as he travels with a group of dwarves and a wizard named Gandalf to reclaim their stolen treasure from a dragon named Smaug. Along the way, Bilbo and the dwarves encounter a variety of obstacles and dangers, including trolls, goblins, and giant spiders. The book has been adapted for stage, screen and radio, and is considered a classic of children's literature."
+		},
+		{
+			"id": 7,
+			"title": "The Lord of the Rings",
+			"author": "J.R.R. Tolkien",
+			"publisher": "Allen & Unwin",
+			"publication_date": "1954",
+			"synopsis": "The Lord of the Rings is an epic high fantasy novel by the English author J.R.R. Tolkien, published in three volumes in 1954 and 1955. The story tells of the Dark Lord Sauron, who is seeking the One Ring, which has the power to control all the other rings in Middle-earth. The story follows hobbit Frodo Baggins as he and his companions, the Fellowship of the Ring, embark on a quest to destroy the One Ring and defeat Sauron. The novel has been adapted for film, radio, and stage, and has become a classic of modern literature."
+		},
+		{
+			"id": 8,
+			"title": "The Picture of Dorian Gray",
+			"author": "Oscar Wilde",
+			"publisher": "Ward, Lock and Company",
+			"publication_date": "1890",
+			"synopsis": "The Picture of Dorian Gray is a novel by Oscar Wilde, published in 1890. It tells the story of Dorian Gray, a beautiful young man who becomes obsessed with his own youth and beauty. When his portrait is painted, Dorian makes a wish that he could remain young and beautiful forever, while the portrait ages in his place. As Dorian's sins and debauchery escalate, the portrait becomes increasingly hideous, while Dorian remains outwardly youthful and attractive. The novel is a critique of Victorian society and its values, and has become a classic of English literature."
+		}
+	]
+}
